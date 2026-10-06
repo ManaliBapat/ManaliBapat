@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I am Manali!
+Product Designer currently based in Melbourne🇦🇺 with full work rights.
+
+Previously at Mindtickle, Tekion and Suzuki. Studied at IIT Hyderbad.
+
+
 
 <!--
 **ManaliBapat/ManaliBapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
